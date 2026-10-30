@@ -49,6 +49,6 @@
 
 <div align="center">
   
-$\color{#E22518}{\textsf{wuf, go to my}}$ [main](https://github.com/confusion-maretu)
+$\color{#E22518}{\textsf{wuf, go to my}}$ [main](https://github.com/MILLIONAIRE5)
 
 </div>
